@@ -1,0 +1,19 @@
+{
+    "name": "korhankoral/lunar-admin-hub-multi-lang",
+    "description": "Support multiple languages for lunar admin hub",
+    "authors": [
+        {
+            "name": "Korhan Koral",
+            "homepage": "https://github.com/korhankoral/"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Korhankoral\\LunarAdminHubMultiLang\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}

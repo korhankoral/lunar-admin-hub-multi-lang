@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'text.label' => 'Metin',
+    'translated-text.label' => 'Çevrilmiş Metin',
+    'number.label' => 'Sayı',
+    'list.label' => 'Liste',
+    'dropdown.label' => 'Dropdown',
+    'dropdown.missing_labels' => 'Her satırın bir etiket olmasını sağlamalısınız',
+    'dropdown.value_placeholder' => 'Etiketi kullanmak için boş bırakın',
+    'file.label' => 'Dosya Yükle',
+    'file.max_files.label' => 'Maksimum Dosyalar',
+    'file.choose_assets' => 'Varlıkları Dosyaları',
+    'file.uploads_empty' => 'Yüklediğiniz dosyalar burada görünecek.',
+    'file.select_files' => 'Dosyaları seçin',
+    'dropdown.label_heading' => 'Etiket',
+    'dropdown.value_heading' => 'Değer',
+    'dropdown.add_row_btn' => 'Satır Ekle',
+    'dropdown.empty_selection' => 'Bir değer seçin',
+    'toggle.label' => 'Değiştir',
+    'toggle.empty_notice' => 'Varsayılan boole değerlerini kullanmak için boş bırakın',
+    'toggle.on_label' => 'Değer Üzerine',
+    'toggle.off_label' => 'Kapalı Değer',
+    'youtube.label' => 'YouTube Video',
+    'richtext.config' => ':url tarafından desteklenen herhangi bir mevcut yapılandırmayı aşağıya girebilirsiniz.',
+];
