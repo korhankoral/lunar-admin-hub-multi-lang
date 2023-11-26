@@ -17,5 +17,8 @@
     "prefer-stable": true,
     "require-dev": {
         "orchestra/testbench": "^8.15"
+    },
+    "require": {
+        "lunarphp/lunar": "^0.7.2"
     }
 }
