@@ -13,12 +13,19 @@
             "Korhankoral\\LunarAdminHubMultiLang\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Korhankoral\\LunarAdminHubMultiLang\\AdminHubMultiLangServiceProvider"
+            ]
+        }
+    },
     "require-dev": {
         "orchestra/testbench": "^8.15"
     },
     "require": {
         "lunarphp/lunar": "^0.7.2"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

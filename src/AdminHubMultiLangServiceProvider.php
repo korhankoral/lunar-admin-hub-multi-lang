@@ -4,11 +4,8 @@ namespace Korhankoral\LunarAdminHubMultiLang;
 
 use Illuminate\Support\ServiceProvider;
 
-class AdminHubServiceProvider extends ServiceProvider
+class AdminHubMultiLangServiceProvider extends ServiceProvider
 {
-
-    protected $root = __DIR__.'/..';
-
     /**
      * Register any application services.
      *
